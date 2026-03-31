@@ -60,4 +60,4 @@ Module 5: Cybercrime & Safety
 
     Coding Plaform: HackerRank
 
-    Professional Networking: Li
+    Professional Networking: LinkedIn
